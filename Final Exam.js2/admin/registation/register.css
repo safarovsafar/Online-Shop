@@ -1,0 +1,60 @@
+.body{
+   margin: 0%;
+}
+.div{
+    width: 50%;
+    height: 685px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(25, 25, 105);
+}
+img{
+    width: 400px;
+    height: 120px;
+}
+.all{
+    display: flex;
+}
+.form{
+    width: 50%;
+    height: 600px;
+    text-align: center;
+    /* display: flex;
+    flex-wrap: wrap;*/
+    /* justify-content: center; 
+    align-content: space-around;     */
+}
+fieldset{
+    text-align: start;
+    width: 51%;
+    height: 40px;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 20px;
+}
+input{
+    width: 90%;
+    border: none;
+    font-size: 20px;
+}
+
+button{
+    display: block;
+    width: 52%;
+    height: 45px;
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: rgb(81, 81, 235);
+    color: aliceblue;
+    margin: auto;
+    margin-top: 20px;
+}
+h1{
+    font-size: 30px;
+    margin-top: 100px;
+}
+a{
+    margin-top: 20px;
+    font-size: 20px;
+}

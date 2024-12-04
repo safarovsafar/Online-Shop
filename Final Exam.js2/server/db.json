@@ -1,0 +1,160 @@
+{
+  "users": [
+    {
+      "id": "d405",
+      "name": "Safar",
+      "password": "00000",
+      "email": "safarovs90888@gmail.com",
+      "phone": "908888026"
+    },
+    {
+      "id": "968c",
+      "name": "safar",
+      "password": "00000",
+      "email": "safarovs90888@gmail.com",
+      "phone": "908888026"
+    },
+    {
+      "id": "31f2",
+      "name": "Safarov",
+      "password": "00000",
+      "email": "safarovs90888@gmail.com",
+      "phone": "206523030"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name": "Electronics",
+      "img": "https://avatars.mds.yandex.net/i?id=782852dfa5721f813dbee41963f0620696471d68-10115282-images-thumbs&n=13"
+    },
+    {
+      "id": "2",
+      "name": "Women Fasion",
+      "img": "https://avatars.mds.yandex.net/i?id=65297753bd6ae716f91d6e98eb2d8f6675bc328c-8219723-images-thumbs&n=13"
+    },
+    {
+      "id": "3",
+      "name": "Men Fasion",
+      "img": "https://avatars.mds.yandex.net/i?id=a1a91ead11671daf08a35771ee0a11eea82407f4c1beafef-5870583-images-thumbs&n=13"
+    },
+    {
+      "id": "4",
+      "name": "Home & lifestyle",
+      "img": "https://avatars.mds.yandex.net/i?id=a384f5fae95fcf5f383ed0fc36589c33-5248842-images-thumbs&n=13"
+    },
+    {
+      "id": "5",
+      "name": "Baby and toys",
+      "img": "https://avatars.mds.yandex.net/i?id=0017e97cffda8df53dd31d4805996dd8af7492c7-5234332-images-thumbs&n=13"
+    },
+    {
+      "id": "6",
+      "name": "Medicine",
+      "img":"https://avatars.mds.yandex.net/i?id=42d1e0cf0d43ecd9774d6108eaa62f5a5a04b930-2795487-images-thumbs&n=13"
+    },
+    {
+      "id": "7",
+      "name": "Sports & outdoors",
+      "img":"https://avatars.mds.yandex.net/i?id=4eb24f23a9298386d36f4072d27b3be60ede395a-8495915-images-thumbs&n=13"
+    },
+    {
+      "id": "7",
+      "name": "Health & beauty",
+      "img":"https://avatars.mds.yandex.net/i?id=55257525a6e58ca8a0e1c8f655feefea7a408107-5865991-images-thumbs&n=13"
+    }
+  ],
+
+  "products": [
+    {
+      "id": "jsb289",
+      "img":"https://avatars.mds.yandex.net/i?id=0a1d519c93cb075bcc1c692a6c646e7e1f99692b-10244527-images-thumbs&n=13",
+      "name": "Perfume",
+      "quantity": "100",
+      "category": "Women & fasion",
+      "color": "red",
+      "price": "221",
+      "desc": "skldnvjksdnvjksd ksn vkjSBJVBERKJ BVWGB EWF"
+    },
+    {
+      "id": "9",
+      "img":"https://avatars.mds.yandex.net/i?id=a8218f429edd1f9206b2dd7a0abf9aa2b5d3097aa8228df2-4219831-images-thumbs&n=13",
+      "name": "Ball",
+      "quantity": "410",
+      "category": "Sport and outdoor",
+      "color": "red",
+      "price": "21",
+      "desc": "skldnvjksdnvjksd ksn vkjSBJVBERKJ BVWGB EWF"
+    },
+     {
+      "id": "cfe5",
+      "img":"https://avatars.mds.yandex.net/i?id=9ecdb904992662cf181bf029bf43e1d9fd106450-12382358-images-thumbs&n=13",
+      "name": "Radio",
+      "quantity": "100",
+      "category": "Electronics",
+      "color": "red",
+      "price": "200",
+      "desc": "skldnvjksdnvjksd ksn vkjSBJVBERKJ BVWGB EWF"
+    },
+    {
+      "id": "10",
+      "img": "https://avatars.mds.yandex.net/i?id=ab08755af160112fac06cfe4c42af525f9361d05-12645552-images-thumbs&n=13",
+      "name": "snickers",
+      "quantity": "100",
+      "category": "Men fasion",
+      "color": "white",
+      "price": "55",
+      "desc": "skldnvjksdnvjksd ksn vkjSBJVBERKJ BVWGB EWF"
+    },
+    {
+      "id": "1",
+      "img":"https://avatars.mds.yandex.net/i?id=dde275fc96e5215a8804358bd4663c7c6aa7551b-7457232-images-thumbs&n=13",
+      "name": "Laptop",
+      "quantity": "100",
+      "category": "Electronics",
+      "color": "red",
+      "price": "200",
+      "desc": "skldnvjksdnvjksd ksn vkjSBJVBERKJ BVWGB EWF"
+    },
+    {
+      "id": "2",
+      "img":"https://avatars.mds.yandex.net/i?id=282b2c5fd76cac78b16446ae7f67cc7af12274ca-9147275-images-thumbs&n=13",
+      "name": "T-shirt",
+      "quantity": "100",
+      "category": "Men fasion",
+      "color": "red",
+      "price": "200",
+      "desc": "skldnvjksdnvjksd ksn vkjSBJVBERKJ BVWGB EWF"
+    },
+    {
+      "id": "3",
+      "img": "https://avatars.mds.yandex.net/i?id=47b365f1af98accdba586135977877ccc02c7b2d-7731990-images-thumbs&n=13",
+      "name": "Iphone",
+      "quantity": "100",
+      "category": "Electronics",
+      "price": "200",
+      "color": "red",
+      "desc": "skldnvjksdnvjksd ksn vkjSBJVBERKJ BVWGB EWF"
+    },
+    {
+      "id": "4",
+      "img": "https://avatars.mds.yandex.net/i?id=47b365f1af98accdba586135977877ccc02c7b2d-7731990-images-thumbs&n=13",
+      "name": "Iphone",
+      "quantity": "100",
+      "category": "Electronics",
+      "color": "black",
+      "price": "200",
+      "desc": "skldnvjksdnvjksd ksn vkjSBJVBERKJ BVWGB EWF"
+    },
+    {
+      "id": "5",
+      "img":"https://avatars.mds.yandex.net/i?id=32cead1f1ceaece27d4afefaa82a87578674d4f7-12990625-images-thumbs&n=13",
+      "name": "Game controler",
+      "quantity": "100",
+      "category": "Electronics",
+      "color": "black",
+      "price": "200",
+      "desc": "skldnvjksdnvjksd ksn vkjSBJVBERKJ BVWGB EWF"
+    }
+  ]
+}

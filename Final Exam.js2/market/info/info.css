@@ -1,0 +1,113 @@
+.size-6{
+    width: 30px;
+    height: 30px;
+}
+.new{
+    width: 95%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 40px;
+    box-shadow: 0px 0px 5px 3px gray;
+    font-size: 25px;
+}
+
+.fast{
+    width: 200px;
+    height: 50px;
+}
+.left{
+    background-color: black;
+    border-radius: 10px;
+}
+.center{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.center a{
+    text-decoration: none;
+    color: black;
+}
+.right{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.inpSearch{
+    width: 200px;
+    height: 35px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    color: black;
+    padding: 5px 15px;
+}
+.home{
+    border-bottom: 2px solid gray;
+}
+.blockEnd{
+    width: 95%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+    text-align: center;
+    margin-top: 90px;
+}
+.blocksEnd{
+    background-color: #000000;
+    color: white;
+    width: 100%;
+    padding: 50px 0px;
+    margin-top: 327px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.text3{
+    position: relative;
+    top: 7px;
+}
+.text2{
+    position: relative;
+    top: 10px;
+}
+.text4{
+    position: relative;
+    top: 7px;
+}
+.text5{
+    position: relative;
+    top: 5px;
+}
+.text5 img{
+    width: 140px;
+    position: relative;
+    top: 20px;
+    right: 5px;
+}
+
+.parent{
+    margin-top: 20px;
+}
+
+.photo{
+   width: 550px;
+   height: 550px;
+   border-radius: 10px;
+}
+.parent{
+    display: flex;
+    justify-content: space-around;
+}
+.buy{
+    font-size: 20px;
+    box-shadow: 1px 1px 3px;
+    width: 100px;
+    text-align: center;
+    padding: 7px 10px;
+    border-radius: 3px;
+    background-color: blue;
+    color: white;
+}
